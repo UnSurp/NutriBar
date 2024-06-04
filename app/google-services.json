@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544850466712",
+    "project_id": "nutribar-d67e4",
+    "storage_bucket": "nutribar-d67e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544850466712:android:004cf38b08d8c7ac9abded",
+        "android_client_info": {
+          "package_name": "com.example.nutribar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMEztU3Sk50ksuThvtP-bpMuTfW3qJiaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
